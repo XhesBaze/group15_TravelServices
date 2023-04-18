@@ -1,7 +1,7 @@
 # group13_SoftwareModelingProject
 Software Modeling Project for SWE 202 class.
 
-Our team fully comprehends that traveling is much more than just going from a starting point to a destination. Hence, that's why we believe OnTheGo will be the perfect  application to providing outstanding service and constructing amazing experiences when it comes to traveling.
+Our team fully comprehends that traveling is much more than just going from a starting point to a destination. Hence, that's why we believe OnTheGo will be the perfect  application to provide outstanding service and construct amazing experiences when it comes to traveling.
 
 Below, you'll find some of the main services offered: 
 
@@ -30,7 +30,7 @@ The application will contain three level of users: customers, agents and adminis
 Depending on their requirements, such as the type and model, length of the rental, and location, they may browse and search through many car possibilities. Customers may pick extra services like insurance or GPS and make safe payments using the automobile rental company's website or mobile app. The automobile rental business also offers customers the ability to manage their reservations, examine their specifics, and contact customer care.
 
    Agents:
-Customers can get customer assistance from agents, who are the company's representatives, through phone, chat, email, or other means. They can respond to client questions, offer details about various vehicles and their characteristics, assist customers with reservations, and address any problems that may arise during a customer's rental. Agents have access to consumer data and rental specifics. They may also connect with customers to offer prompt help.
+Customers can get customer assistance from agents, who are the company's representatives, through phone, chat, email, or other means. They can respond to client questions, offer details about various vehicles and their characteristics, assist customers with reservations, and address any problems that may arise during a customer's rental. Agents have access to consumer data and rental specifics. They may also connect with customers to offer prompt help. Lastly,they will need to notify drivers in case of the customer requesting this service.
 
    Administrators:
 Administrators are the users who manage the service. They can control the inventory of rental cars, add or remove vehicles, establish price guidelines, and oversee the upkeep and safety of the fleet. In addition, administrators have control over client data, payment processing, and the creation of statistics on performance and utilization of automobile rentals. Companies may employ data analytics to learn more about consumer behavior and preferences, and then use that knowledge to enhance the functioning and user experience of the vehicle rental business.eferences, and use that information to improve the car rental service's functionality and user experience.
